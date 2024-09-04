@@ -1,4 +1,4 @@
-module coredns-plugin
+module github.com/ZaenFerdiansyah/coredns-plugin
 
 go 1.23.0
 
