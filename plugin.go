@@ -10,6 +10,7 @@ import (
 
     "github.com/coredns/coredns/plugin"
     "github.com/miekg/dns"
+    "github.com/ZaenFerdiansyah/coredns-plugin/domainforwarder"
 )
 
 type DomainForwarder struct {
